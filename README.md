@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Denis
 - 👀 I’m interested in many things like music and photography, but my job requires some programming skills, s.b.t.
 - 🌱 I’m currently learning Python, TOML, Go, CSS + HTML
-- 💞️ I’m not looking for any collaboration, guys.
-- 📫 So no need to reach me any way ;)
+- 💞️ I’m not looking for any collaboration, guys, and this is why...
+- 📫 ...there's no need to reach me at all ;)
 
 <!---
 denrider/denrider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
